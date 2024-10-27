@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TareaConstraintLayout</string>
+    <string name="nombre">Santi Cortes</string>
+    <string name="email">ejemplo@cifpcarballeira.com</string>
+    <string name="mensaje">Escribe tu mensaje</string>
+    <string name="label">Felicitaciones de navidad</string>
+    <string name="nombre_y_apellidos">Nombre y apellidos</string>
+    <string name="direccion_de_email">Direccion de email</string>
+</resources>

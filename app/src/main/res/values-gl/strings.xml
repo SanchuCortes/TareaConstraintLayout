@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TareaConstraintLayout</string>
+    <string name="mensaje">Escribe o teu nome</string>
+    <string name="label">"Felicitaciones de Nadal "</string>
+    <string name="nombre_y_apellidos">Nome e apelidos</string>
+</resources>
